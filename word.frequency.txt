@@ -1,0 +1,5 @@
+Apple,Strawberry,Banana,Apple,Grapes
+Strawberry,Oranges,Grapes,Apple,Apple
+Banana,Oranges,Grapes,Strawberry,Apple
+Grapes,Apple,Banana,Apple,Strawberry
+Oranges,Banana,Apple,Strawberry,Banana
